@@ -8,5 +8,12 @@
       <password>e71f26bb2e4e42da7df2f431dd6403301d707087</password>
       <name>Артём</name>
     </row>
-  <row><id>2</id><login>Григорий</login><email>grigoriy@krasavchik.ru</email><password>fc7da59a89316c7ef4c86e8fa2cfabeb0e5cb090</password><name>Гришенька</name></row></users>
+  <row>
+    <id>2</id>
+    <login>Григорий</login>
+    <email>grigoriy@krasavchik.ru</email>
+    <password>fc7da59a89316c7ef4c86e8fa2cfabeb0e5cb090</password>
+    <name>Гришенька</name>
+  </row>
+</users>
 </database>
